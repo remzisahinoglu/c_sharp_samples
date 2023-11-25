@@ -1,0 +1,10 @@
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\bin\Debug\ClickBarChart.exe.config
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\bin\Debug\ClickBarChart.exe
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\bin\Debug\ClickBarChart.pdb
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.Form1.resources
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.exe
+C:\Users\ISU24108\Desktop\ClickBarChart\ClickBarChart\obj\Debug\ClickBarChart.pdb

@@ -1,0 +1,10 @@
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\bin\Debug\ButtonArray.exe.config
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\bin\Debug\ButtonArray.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\bin\Debug\ButtonArray.pdb
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.Form1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ButtonArray\ButtonArray\ButtonArray\obj\Debug\ButtonArray.pdb

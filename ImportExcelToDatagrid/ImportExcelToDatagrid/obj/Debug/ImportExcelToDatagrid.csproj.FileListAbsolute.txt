@@ -1,0 +1,25 @@
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.exe.config
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.exe
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.pdb
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.Form1.resources
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.exe
+C:\Users\ISU24108\Desktop\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.pdb
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.exe.config
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.exe
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ImportExcelToDatagrid.pdb
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.Form1.resources
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.csproj.CopyComplete
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.exe
+C:\Users\ISU24108\Desktop\DOCS\POSTS\C SHARP\ImportExcelToDatagrid\ImportExcelToDatagrid\obj\Debug\ImportExcelToDatagrid.pdb

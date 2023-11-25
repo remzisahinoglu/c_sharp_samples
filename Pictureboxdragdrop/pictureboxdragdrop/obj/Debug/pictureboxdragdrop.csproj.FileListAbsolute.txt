@@ -1,0 +1,9 @@
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\bin\Debug\pictureboxdragdrop.exe.config
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\bin\Debug\pictureboxdragdrop.exe
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\bin\Debug\pictureboxdragdrop.pdb
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.Form1.resources
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.exe
+C:\Users\ISU24108\Desktop\pictureboxdragdrop\pictureboxdragdrop\obj\Debug\pictureboxdragdrop.pdb

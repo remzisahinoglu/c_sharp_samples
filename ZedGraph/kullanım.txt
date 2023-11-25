@@ -1,0 +1,5 @@
+projeye sag tikla >> add referance dan browse diyip >> zedgraph.dll i seç
+
+toolbox >> general >> choose item >> browse diyip >> zedgraph i seçip >> ok diyoruz.
+
+sonra forma sürükleyip birak

@@ -1,0 +1,10 @@
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\bin\Debug\GeoLocater.exe.config
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\bin\Debug\GeoLocater.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\bin\Debug\GeoLocater.pdb
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.Form1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\GeoLocater\GeoLocater\GeoLocater\obj\Debug\GeoLocater.pdb

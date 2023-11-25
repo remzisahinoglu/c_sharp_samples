@@ -1,0 +1,23 @@
+c:\users\başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe.config
+c:\users\başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csprojResolveAssemblyReference.cache
+c:\users\başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Form1.resources
+c:\users\başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Properties.Resources.resources
+c:\users\başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.GenerateResource.Cache
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.pdb
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\bin\Debug\EasyModbus.dll
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.exe
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.pdb
+C:\Users\Başak\documents\visual studio 2013\Projects\TCP Haberlerşme\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.UserControl1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe.config
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\bin\Debug\TCP Haberlerşme.pdb
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Form1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP_Haberlerşme.UserControl1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.csproj.CopyComplete
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModBusTCP_C#_Demo\TCP Haberlerşme\obj\Debug\TCP Haberlerşme.pdb

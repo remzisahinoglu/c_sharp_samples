@@ -1,0 +1,11 @@
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\bin\Debug\ModbusTCPMultiPLC.exe.config
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\bin\Debug\ModbusTCPMultiPLC.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\bin\Debug\ModbusTCPMultiPLC.pdb
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.Form1.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.csproj.CopyComplete
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.exe
+C:\Users\ISU24108\Desktop\DC\YAZILIM\CSHARP\ModbusTCP_MultiPLC\ModbusTCPMultiPLC\ModbusTCPMultiPLC\obj\Debug\ModbusTCPMultiPLC.pdb

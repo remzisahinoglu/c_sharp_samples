@@ -1,0 +1,30 @@
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\DOCS\ELEKTRONIK\C SHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\ISU24108\Desktop\DC\CSHARP\Serial Port\SerialPort\SerialPort\obj\Debug\SerialPort.pdb

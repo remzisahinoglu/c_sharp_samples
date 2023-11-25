@@ -1,0 +1,30 @@
+C:\Users\acer\Desktop\MultiServer\MultiServer\bin\Debug\MultiServer.exe.config
+C:\Users\acer\Desktop\MultiServer\MultiServer\bin\Debug\MultiServer.exe
+C:\Users\acer\Desktop\MultiServer\MultiServer\bin\Debug\MultiServer.pdb
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.Form1.resources
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.Properties.Resources.resources
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.exe
+C:\Users\acer\Desktop\MultiServer\MultiServer\obj\Debug\MultiServer.pdb
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\bin\Debug\MultiServer.exe.config
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\bin\Debug\MultiServer.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\bin\Debug\MultiServer.pdb
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csprojResolveAssemblyReference.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.Form1.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\MultiServer\MultiServer\obj\Debug\MultiServer.pdb
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\bin\Debug\MultiServer.exe.config
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\bin\Debug\MultiServer.exe
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\bin\Debug\MultiServer.pdb
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csprojAssemblyReference.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.Form1.resources
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.GenerateResource.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.exe
+C:\Users\ISU24108\Desktop\DC\CSHARP\MultiServer\MultiServer\obj\Debug\MultiServer.pdb

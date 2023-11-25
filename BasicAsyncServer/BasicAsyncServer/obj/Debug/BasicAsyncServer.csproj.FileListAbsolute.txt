@@ -1,0 +1,20 @@
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csprojResolveAssemblyReference.cache
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.Form1.resources
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\Users\ISU24108\Desktop\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csprojResolveAssemblyReference.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.Form1.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.Cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\Users\ISU24108\Desktop\ELEKTRONIK\C SHARP\BasicAsyncServer\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
